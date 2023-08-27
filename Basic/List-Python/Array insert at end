@@ -1,4 +1,0 @@
-https://practice.geeksforgeeks.org/batch/ds-with-python/track/list-basic-python/problem/array-insert-at-end
-def insertAtEnd(arr,sizeOfArray,element):
-    arr.append(element)
-    return arr
