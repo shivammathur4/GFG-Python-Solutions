@@ -1,4 +1,4 @@
-[Array insert at end](https://www.google.com/)
+(https://www.google.com/)
 
 def insertAtEnd(arr,sizeOfArray,element):
     arr.append(element)
